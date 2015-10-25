@@ -20,7 +20,7 @@ kramdown:
 
 
 # 地址设置
-baseurl: "/oneblogtest"
+baseurl: "/oneblogtest1"
 url: "http://groundnuty.github.io"
 #url: "http://127.0.0.1:4000"
 
